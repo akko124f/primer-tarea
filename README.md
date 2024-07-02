@@ -1,5 +1,6 @@
-# Página Original de Videojuegos
+<h1 style="color: #ff6600;">Cueva Gamer Videojuegos</h1>
 
+![Banner](https://c4.wallpaperflare.com/wallpaper/453/161/306/a2-nier-automata-9s-nier-automata-2b-nier-automata-nier-automata-wallpaper-preview.jpg)
 
 
 ## Descripción
@@ -11,8 +12,13 @@ Este proyecto es una página web que presenta una colección de videojuegos con 
 - **Lista de Videojuegos**: Una selección de videojuegos populares con sus imágenes.
 - **Diseño Responsivo**: Utiliza HTML y CSS para asegurar que la página se vea bien en diferentes dispositivos.
 - **Imágenes de Alta Calidad**: Incluye imágenes de alta calidad de cada videojuego.
+  ![Banner](https://c4.wallpaperflare.com/wallpaper/144/330/470/source-filmmaker-halo-5-guardians-master-chief-doom-4-wallpaper-thumb.jpg)
 
 ## Tecnologías Utilizadas
 
-- HTML
-- CSS
+- HTML  
+  &#8594; 
+  
+- CSS  
+  &#8594; 
+
