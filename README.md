@@ -1,6 +1,7 @@
 # Página Original de Videojuegos
 
-(https://c4.wallpaperflare.com/wallpaper/453/161/306/a2-nier-automata-9s-nier-automata-2b-nier-automata-nier-automata-wallpaper-preview.jpg)
+![Banner](https://c4.wallpaperflare.com/wallpaper/453/161/306/a2-nier-automata-9s-nier-automata-2b-nier-automata-nier-automata-wallpaper-preview.jpg)
+
 
 ## Descripción
 
