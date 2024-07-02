@@ -12,7 +12,7 @@ Este proyecto es una página web que presenta una colección de videojuegos con 
 - **Lista de Videojuegos**: Una selección de videojuegos populares con sus imágenes.
 - **Diseño Responsivo**: Utiliza HTML y CSS para asegurar que la página se vea bien en diferentes dispositivos.
 - **Imágenes de Alta Calidad**: Incluye imágenes de alta calidad de cada videojuego.
-  ![Banner]https://c4.wallpaperflare.com/wallpaper/144/330/470/source-filmmaker-halo-5-guardians-master-chief-doom-4-wallpaper-thumb.jpg
+  ![Banner](https://c4.wallpaperflare.com/wallpaper/144/330/470/source-filmmaker-halo-5-guardians-master-chief-doom-4-wallpaper-thumb.jpg)
 
 ## Tecnologías Utilizadas
 
