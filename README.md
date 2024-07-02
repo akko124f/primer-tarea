@@ -1,6 +1,6 @@
-# Página Original de Videojuegos
+# Página Original de Videojuegos 
 
-
+![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVSLSvEjDm5s&psig=AOvVaw1gpQIu7pTw0zdGmTB3Z_-S&ust=1720036077459000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIivoO-PiYcDFQAAAAAdAAAAABAE)
 
 ## Descripción
 
