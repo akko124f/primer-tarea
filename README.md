@@ -1,4 +1,4 @@
-# Página Original de Videojuegos
+<span style="color: #ff6600;"># Cueva Gamer</span>
 
 ![Banner](https://c4.wallpaperflare.com/wallpaper/453/161/306/a2-nier-automata-9s-nier-automata-2b-nier-automata-nier-automata-wallpaper-preview.jpg)
 
