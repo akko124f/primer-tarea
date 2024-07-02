@@ -15,8 +15,6 @@ Este proyecto es una página web que presenta una colección de videojuegos con 
 
 ## Tecnologías Utilizadas
 
-## Tecnologías Utilizadas
-
 - HTML  
   &#8594; 
   
